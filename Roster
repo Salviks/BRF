@@ -1,0 +1,48 @@
+|cFFFFD100Roster|r
+ 
+ 
+	|cFFFFD100Tanks|r
+ 
+		{tank} |cFFC79C6E|Hplayer:Scyas|hScyas|h|r
+		{tank} |cFF00FF96|Hplayer:Horribull|hHorribull|h|r
+		{tank} |cFFC79C6E|Hplayer:Korthax|hKorthax|h|r
+ 
+ 
+	|cFFFFD100Healers|r
+ 
+		{healer} |cFFF58CBA|Hplayer:Xaud|hXaud|h|r
+		{healer} |cFFF58CBA|Hplayer:Dewrah|hDewrah|h|r
+		{healer} |cFF00FF96|Hplayer:Duk|hDuk|h|r
+		{healer} |cFFFFFFFF|Hplayer:Bensonx|hBensonx|h|r
+		{healer} |cFFFFFFFF|Hplayer:Marcaryn|hMarcaryn|h|r
+		{healer} |cFF0070DE|Hplayer:Muco|hMuco|h|r
+		{healer} |cFFFF7D0A|Hplayer:Vikks|hVikks|h|r
+ 
+ 
+	|cFFFFD100Melee Damage Dealers|r
+ 
+		{damage} |cFFC79C6E|Hplayer:Korthax|hKorthax|h|r
+		{damage} |cFFC79C6E|Hplayer:Miscin|hMiscin|h|r
+		{damage} |cFFC79C6E|Hplayer:Brutalbunny|hBrutalbunny|h|r
+		{damage} |cFFC41F3B|Hplayer:Hannibil|hHannibil|h|r
+		{damage} |cFFF58CBA|Hplayer:Squanty|hSquanty|h|r
+		{damage} |cFFFF7D0A|Hplayer:Lyshan|hLyshan|h|r
+		{damage} |cFFFFF569|Hplayer:Narthul|hNarthul|h|r
+		{damage} |cFFFFF569|Hplayer:Demonatrixx|hDemonatrixx|h|r
+		{damage} |cFFFFF569|Hplayer:Otteray|hOtteray|h|r
+ 
+ 
+	|cFFFFD100Ranged Damage Dealers|r
+ 
+		{damage} |cFFFFFFFF|Hplayer:Swolbroham|hSwolbroham|h|r
+		{damage} |cFF0070DE|Hplayer:Muco|hMuco|h|r
+		{damage} |cFFFF7D0A|Hplayer:Vikks|hVikks|h|r
+		{damage} |cFFFF7D0A|Hplayer:Zenathar|hZenathar|h|r
+		{damage} |cFF69CCF0|Hplayer:Lucitya|hLucitya|h|r
+		{damage} |cFF69CCF0|Hplayer:Youngnasty|hYoungnasty|h|r
+		{damage} |cFF9482C9|Hplayer:Coffêbreak|hCoffêbreak|h|r
+		{damage} |cFFABD473|Hplayer:Kalios|hKalios|h|r
+		{damage} |cFFABD473|Hplayer:Axeplosive|hAxeplosive|h|r
+		{damage} |cFFABD473|Hplayer:Kalios|hKalios|h|r
+		{damage} |cFFFF7D0A|Hplayer:Knìghtdemons|hKnìghtdemons|h|r
+|cFFFFD100|r
